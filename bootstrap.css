@@ -1,0 +1,64 @@
+
+
+
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: #eae0d5;
+}
+#navbarTogglerDemo02{
+    float: right;
+}
+
+.container h1{
+    display: block;
+    font-size: 2.5em;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: 5px;
+    margin-inline-end: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+aside {
+    float: right;
+    overflow: hidden;
+    font-size: 25px;
+}
+.container p{
+    display: block;
+    margin-block-start: 4em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 25px;
+}
+.container p ul{
+    display: inline-block;
+    margin-block-start: 1em;
+    margin-block-end: 0.60em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.footer{
+    display:block;
+    background-color: rgb(92, 90, 88);
+    padding: 10px 30px;
+    margin-left: 55px 10px;
+    color: rgb(240, 234, 234);
+    font-weight: bold;
+    font: 1em ;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.footer-icons a{
+    font-size:48px;
+    padding: 10px 20px;
+    
+}
